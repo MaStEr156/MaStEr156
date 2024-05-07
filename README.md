@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahmed Abdulrahim.
-- 👀 I’m interested in problem solving and CS overall.
-- 🌱 I’m currently learning web development.
+- 👀 I’m interested in Back-end Development and CS overall.
+- 🌱 I’m currently learning ِ ASP.NET Core framework.
 - 📫 How to reach me: 
  
   Email:
