@@ -1,19 +1,18 @@
 - 👋 Hi, I’m Ahmed Abdulrahim.
-- 👀 I’m interested in Back-end Development and CS overall.
+- 👀 I’m interested in Back-end Development (ASP.NET Core) and Databases.
 - 🌱 I’m currently learning ِ ASP.NET Core framework.
 - 📫 How to reach me: 
  
   Email:
 
-  medo1562003@gmail.com
+  ahmedabdulrahim156@gmail.com
 
   Linkedin:
 
   https://www.linkedin.com/in/master156/
 
-  Facebook:
-
-  https://www.facebook.com/MaStEr15603/
+  Twitter:
+  https://x.com/AhmedAbdlrahim_
 
 
 <!---
