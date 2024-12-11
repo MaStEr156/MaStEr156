@@ -1,0 +1,20 @@
+repo_name: MaStEr156/MaStEr156
+report_id: e0543bf3406a7a59f1948e6334a5151e
+version: 0.1
+repo_type: Public
+timestamp: '2024-05-07T17:02:23+00:00'
+requested_by: MaStEr156
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/MaStEr156/MaStEr156
+  detection_source: Repo Metadata
