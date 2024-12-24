@@ -46,6 +46,11 @@ I’m currently exploring **embedded systems** with Arduino and working on creat
 ## 📫 Let's Connect!  
 
 - [LinkedIn](https://www.linkedin.com/in/ahmed-abdulrahim/)  
-- [Mostaql](https://mostaql.com/u/MaStEr156) 
+- [Mostaql](https://mostaql.com/u/MaStEr156)
 
 Feel free to explore my repositories to see what I’ve been working on! I'm always open to collaboration and learning opportunities.
+
+## Contributions
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaStEr156&area=true&hide_border=true&theme=react-dark" width="80%" alt="MaStEr156's activity graph" />
+</div>
