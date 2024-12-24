@@ -49,6 +49,20 @@ I’m currently exploring **embedded systems** with Arduino and working on creat
 - [Mostaql](https://mostaql.com/u/MaStEr156)
 
 Feel free to explore my repositories to see what I’ve been working on! I'm always open to collaboration and learning opportunities.
+## GitHub Status 
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MaStEr156&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+--<<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MaStEr156&show_icons=true&locale=en&layout=compact" alt="Top Languages" />  
+</p>
+<!--
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MaStEr156&theme=city-lights&hide_border=false" />
+</p>
+-->
 
 ## Contributions
 <div align="center">
