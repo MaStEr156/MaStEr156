@@ -55,7 +55,7 @@ Feel free to explore my repositories to see what I’ve been working on! I'm alw
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=MaStEr156&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
---<<p align="center">
+<p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MaStEr156&show_icons=true&locale=en&layout=compact" alt="Top Languages" />  
 </p>
 <!--
