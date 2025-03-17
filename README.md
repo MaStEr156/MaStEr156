@@ -54,10 +54,12 @@ Feel free to explore my repositories to see what I’ve been working on! I'm alw
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=MaStEr156&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
-
+<!--
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MaStEr156&show_icons=true&locale=en&layout=compact" alt="Top Languages" />  
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MaStEr156&show_icons=true&locale=en&layout=compact&size_weight=0&count_weight=1" alt="Top Languages" />  
 </p>
+-->
+
 <!--
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MaStEr156&theme=city-lights&hide_border=false" />
