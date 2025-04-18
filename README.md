@@ -18,7 +18,8 @@
 - **Instructor**  
   Teaching programming and technology to kids aged 5–16 at Techno Kids & Techno Future, covering topics like Scratch, HTML, CSS, and more.  
 
-- **College Projects**  
+- **College Projects**
+  - **OllamaNet:** A microservices-based project integrating with Ollama LLM framework, featuring distributed architecture with Gateway, Auth, and Explore services, built using .NET Core, Redis, and RabbitMQ.
   - **Blood Bank Management System:** A system for managing donors, recipients, and blood inventories.  
   - **CLI Employee Management System:** Demonstrated OOP concepts like interfaces, inheritance, and sorting.  
 
