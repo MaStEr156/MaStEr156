@@ -42,7 +42,7 @@ I’m currently exploring **embedded systems** with Arduino and working on creat
 - Web and software development
 - API development and new api architectures
 - Creative programming projects
-- Kanye West and music in general 🎵  
+- Music 🎵  
 
 ## 📫 Let's Connect!  
 
