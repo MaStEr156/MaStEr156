@@ -68,6 +68,10 @@ Feel free to explore my repositories to see what I’ve been working on! I'm alw
 -->
 
 ## Contributions
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MaStEr156&theme=github-dark&hide_border=false" />
+</p>
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaStEr156&area=true&hide_border=true&theme=react-dark" width="80%" alt="MaStEr156's activity graph" />
 </div>
