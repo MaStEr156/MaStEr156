@@ -53,7 +53,7 @@ Feel free to explore my repositories to see what I’ve been working on! I'm alw
 ## GitHub Status 
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MaStEr156&show_icons=true&locale=en" alt="GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MaStEr156&show_icons=true&locale=en&theme=chartreuse-dark" alt="GitHub Stats" />
 </p>
 <!--
 <p align="center">
@@ -73,5 +73,5 @@ Feel free to explore my repositories to see what I’ve been working on! I'm alw
 </p>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaStEr156&area=true&hide_border=true&theme=react-dark" width="80%" alt="MaStEr156's activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaStEr156&area=true&hide_border=true&theme=chartreuse-dark" width="80%" alt="MaStEr156's activity graph" />
 </div>
